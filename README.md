@@ -58,7 +58,6 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 <!---
 ### Documentation
-<!--- Update the name, link, and version for documentation --->
 | Document             | Version | Link |
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [<Device_Name>_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)     |
