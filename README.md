@@ -1,47 +1,31 @@
 <!--- Open Source Assistive Technology: GitHub Readme Template Version 1.2 (2024-May-27)  --->
 
-<!--- TEMPLATE INTRODUCTION --->
-<!--- This section and the following text should be removed. --->
-This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. More information about how to use the template is available in the [OpenAT_Template_Guide](/OpenAT_Template_Guide.pdf). You can see examples of other Open AT Devices at the Makers Making Change [website](https://www.makersmakingchange.com/s/category/assistive-devices). 
-
-<!--- INSTRUCTIONS --->
-<!--- This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
-
-This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
-
-This template has a number of fields that can be searched and replaced with other text:
- - <Device_Name> Replace this with filename-friendly version of the device with underscores. e.g., Open_Wobble_Switch
- - <DeviceName> Replace this with the human-readable name of the device with spaces. e.g., Open Wobble Switch
- - <DesignerName> Replace this with the person or organization responsible for the design. e.g., John Doe.
- - <Repository_Link> Replace this with the web address for the repository. e.g., (e.g., https://github.com/makersmakingchange/Open-Wobble-Switch))
- - <MMCWebLink> This is the website address including an alphanumeric id for the Makers Making Change Website. e.g., 01tJR000000698oYAA. This will come from MMC staff.  
- - <MaterialCost> Replace this with the dollar cost and currency (CAD, USD, etc.) of the materials of the device.
- - <ShippingCost> Replace this with the dollar cost and currency (CAD, USD, etc.) of shipping the device (if possible).
- - <YEAR> year(s) of the copyright
- 
-Any text that is currently holding a space / is an instruction for the person filling in the README is in all capitals, to make it easier to see them in a rendered version.
-
---->
- 
 <!--- TITLE --->
-# <DeviceName>
-<!--- Should match the name of the GitHub repository. Choose something descriptive rather than whimsical.  --->
+# #MMC10 3D Printable Beverage Can Opener 
+
 
 ## Overview
-<!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
-The <DeviceName> is an assistive technology device that <INSERT DESCRIPTION FROM THE OUTLINE OF The DEVICE>. 
 
-<MODIFY LINE AS NECESSARY> The device is comprised of off-the-shelf electronics and 3D printed parts. 
+Help us celebrate a decade of impact, innovation, and inclusion with this special open-source assistive device from Neil Squire's Makers Making Change program.
+This repository features a 3D printable beverage opening aid, designed so more people can easily open canned drinks and participate fully in shared moments, whether that's a toast, a gathering, or a simple everyday activity.
 
-The <DeviceName> is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
+The Beverage Can Opener is a simple, ergonomic tool that:
+ - Hooks onto standard beverage can tabs
+ - Provides leverage to reduce the force needed to open cans
+ - Can be printed quickly using common materials (e.g., PLA)
 
-The overall cost of materials is about $<MaterialCost> (plus $<ShippingCost> for component shipping).
+This device requires:
+ - 3D printed components only (no electronics required)
+ - Minimal cost (typically just filament and print time)
 
-<img src="Photos/Device_Name.jpg" width="500" alt="Picture of <DeviceName>.">
+This is a customized version of the [Beverage Can Opener](https://github.com/makersmakingchange/Beverage_Can_Opener) and is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
-## Makers Making Change Assistive Device Library
-<MMCWebLink>
+The MMC10 Can Opener requires about $0.20 worth of material.
 
+<img src="Photos/MMC10_Can_Opener.jpg" width="500" alt="Two 3D printed MMC10 beverage can openers resting on a workbench. The close one is printed in white with '#MMC10' in black. The farther one is printed in green filament with 'Makers Making Change' in white. ">
+
+
+<!---
 ## How to Obtain the Device
 ### 1. Do-it-Yourself (DIY) or Do-it-Together (DIT)
 
@@ -54,33 +38,25 @@ You may also submit a build request through the [Makers Making Change Assistive 
 ### 3. Build this device for someone else
 
 If you have the skills and equipment to build this device, and would like to donate your time to create the device for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
-
+--->
 
 ## Build Instructions
-<!--- Outline the major steps required to create a build --->
+
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The [Maker Guide](/Documentation/MMC10_Maker_Guide.pdf) contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
 
-
-### 2. Order the Off-The-Shelf Components
-
-The [Bill of Materials](/Documentation/<Device_Name>_BOM.xlsx) lists all of the parts and components required to build the device.
-
-
-### 3. Print the 3D Printable components
+### 3. Print the device
 
 All of the 3D print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
-
-### 4. Assemble the <DeviceName>
-
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf) for the tools and steps required to build the device.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
 
 ## Files
+
+<!---
 ### Documentation
 <!--- Update the name, link, and version for documentation --->
 | Document             | Version | Link |
@@ -90,52 +66,43 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Bill of Materials    | 1.0     | [<Device_Name>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     |
 | User Guide           | 1.0     | [<Device_Name>_User_Guide](/Documentation/<Device_Name>_User_Guide.pdf)    |
 | Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
-
+--->
 ### Design Files
-<!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
  - [CAD Files](/Design_Files/CAD_Design_Files)
- - [PCB Files](/Design_Files/PCB_Design_Files)
+ 
 
 ### Build Files
-<!--- Include a copy of the build files intended for manufacturing. This may include svg files for laser cutting, stl files for 3d printing, Gerber files for custom PCBs, and Arduino files for custom firmware. --->
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
- - [PCB Build Files](/Build_Files/PCB_Build_Files)
- - [Firmware Files](/Build/Firmware_Files)
 
 
 ## License
-<!--- Add the year(s) for the copyright and the Designer Name. You may use the standard set of open licenses or choose your own for the hardware, software, and accompanying materials. --->
-Copyright (c) <YEAR> <DesignerName>.
+Copyright (c) 2026. Neil Squire Society.
 
 This repository describes Open Hardware:
- - Everything needed or used to design, make, test, or prepare the <DeviceName> is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
- - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
- - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <Device-Name> are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
+ - Everything needed or used to design, make, test, or prepare the Beverage Can Opener is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
+  - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Beverage Can Opener are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
 
 You may redistribute and modify this documentation and make products using it under the terms of the [CERN-OHL-W v2](https://cern.ch/cern-ohl).
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: <Repository_Link> 
+Source Location: https://github.com/makersmakingchange/MMC10
 
 ## Attribution
 <!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
-The device was designed by <DesignerName>. 
+The original can opener design was created by Jason Yeung of [PrintLab](https://weareprintlab.com/) and released unders a CC BY-SA 4.0 license.
 
 <!--- This is the attribution for the template. --->
-The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: [https://github.com/makersmakingchange/OpenAT-Template](https://github.com/makersmakingchange/OpenAT-Template)
+The documentation template was created by Makers Making Change / Neil Squire Society and is available for use under a CC BY-SA 4.0 license. It is available at the following link: [https://github.com/makersmakingchange/OpenAT-Template](https://github.com/makersmakingchange/OpenAT-Template)
 
 ### Contributors
 <!--- List the names of the people that contributed to the design. This could include the original source of the idea, designers, testers, documenters, etc. --->
-Designers:
- - <DESIGNER 1>
- - <DESIGNER 2>
-
-Testers:
- - <TESTER 1>
- - <TESTER 2>
-
-
+ - Jason Yeung
+ - Taz Oldaker
+ - Jake McIvor
+ - Kristina Mok
+ - Josie Versloot
+ 
 ---
 <!--- This is standard boilerplate for Makers Making Change. No changes should be required. --->
 <!-- ABOUT MMC START -->
