@@ -45,14 +45,54 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/MMC10_Maker_Guide.pdf) contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The [Maker Guide](/Documentation/MMC10_Can_Opener_Maker_Guide.pdf) contains all the necessary information to build this device.
 
-### 3. Print the device
+### 3. 3D Print the Can Opener
 
-All of the 3D print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
+The 3D print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder. There are options for single color and multi-color prints.
 
-## How to improve this Device
-As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
+
+## Usage / Celebration Instructions
+Join us in celebrating 10 years of Makers Making Change by taking part in a simple, inclusive toast!
+### 1. Obtain a MMC10 Can Opener
+Download and print the device using the build instructions above. 
+
+### 2. Grab a Celebratory Beverage
+Choose your favorite canned drink - whatever helps you celebrate.
+
+### 3. Open with Ease
+Use the MMC10 Can Opener to open the can.
+
+### 4. Cheers!
+Raise your drink and celebrate 10 years of innovation, community, and impact.
+
+### 5. Capture the Moment
+Take a photo or short video of your celebration.
+
+### 6. Share and Tag Us
+Post on social media and tag Maker Making Change to join the global celebration.
+ - Use hashtags #MMC10 and/or #10YearsOfImpact
+
+
+### Celebrating Inclusively
+Celebration should be accessible to everyone.
+
+We recognize that not everyone can open or drink from a standard beveage can. This design is one example of how small design changes can make shared moments more inclusive. You are encourages to adapt how you participate so it works for you or the people you are celebrating with.
+
+#### Additional Assitive Designs
+ - [Customizable Beverage Can Opener](https://www.makersmakingchange.com/product/customizable-beverage-can-opener/01tJR000000690bYAA) 
+ - [Can Stablizer](https://www.makersmakingchange.com/product/can-stabilizer/01tJR000000690iYAA)
+ - [Bottle Opener](https://www.makersmakingchange.com/product/bottle-opener/01tJR00000068z0YAA)
+
+ 
+#### Help Expand Inclusive Celebrations
+Have an idea for an assistive tool that could help more people take part in celebrations?
+We would love to hear it. You can:
+ - [Suggest new device ideas](https://www.makersmakingchange.com/submit-an-idea)
+ - Share adaptations of this design
+ - [Contribute new Open Source Assistive Technology projects](https://www.makersmakingchange.com/submit-a-device)
+
+Together, we can continue building tools that make everyday moments more accessible and joyful for everyone.
 
 ## Files
 
